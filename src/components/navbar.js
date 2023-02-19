@@ -14,7 +14,7 @@ const Navbar = () => {
         <Link to='/contact' >Contact</Link>
         <Link to='/about' >About us</Link>
         <Link to='/help' >Help</Link>
-        <Link to='/pricing' className='bg-[#212E52] text-white rounded w-[170px] h-[40px] flex items-center justify-center ' >Join our Community</Link>
+        <Link to='/pricing ' className='bg-[#212E52] text-white rounded w-[170px] h-[40px] flex items-center justify-center ' >Join our Community</Link>
       </div>
     </div>
   )
